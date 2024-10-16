@@ -1,1 +1,1 @@
-cosmic-applet-workspaces = Cosmic Buraubladen
+cosmic-applet-workspaces = COSMIC Buraubladen

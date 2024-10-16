@@ -1,4 +1,4 @@
-cosmic-app-list = لیست برنامه های داک Cosmic
+cosmic-app-list = لیست برنامه های داک COSMIC
 pin = مورد علاقه
 quit = ترک
 quit-all = ترک همه

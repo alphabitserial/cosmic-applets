@@ -1,4 +1,4 @@
-cosmic-app-list = Cosmic Dock-App-Liste
+cosmic-app-list = COSMIC Dock-App-Liste
 pin = Favorisieren
 quit = Beenden
 quit-all = Alle beenden

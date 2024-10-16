@@ -1,4 +1,4 @@
-cosmic-app-list = Telakoitu Cosmic sovellusluettelo
+cosmic-app-list = Telakoitu COSMIC sovellusluettelo
 pin = Suosikki
 quit = Sulje
 quit-all = Sulje Kaikki
